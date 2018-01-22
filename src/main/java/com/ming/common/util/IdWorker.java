@@ -1,4 +1,4 @@
-package com.ming.common.util.id;
+package com.ming.common.util;
 
 public class IdWorker {
 	

@@ -1,4 +1,4 @@
-package com.ming.common.util.http;
+package com.ming.common.util;
 
 import java.io.IOException;
 import java.security.KeyManagementException;

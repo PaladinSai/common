@@ -1,5 +1,5 @@
 
-package com.ming.common.util.encrypt;
+package com.ming.common.util;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

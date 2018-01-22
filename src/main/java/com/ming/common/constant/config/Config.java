@@ -2,7 +2,7 @@ package com.ming.common.constant.config;
 
 import org.dozer.DozerBeanMapper;
 
-import com.ming.common.util.id.IdWorker;
+import com.ming.common.util.IdWorker;
 
 public class Config {
 	

@@ -1,4 +1,4 @@
-package com.ming.common.util.bussiness;
+package com.ming.common.util;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
@@ -6,9 +6,6 @@ import java.util.Map;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
-import com.ming.common.util.common.XMLUtil;
-import com.ming.common.util.http.HttpClientUtil;
 
 /**
  * 类名：SMSUtil<br>
@@ -31,9 +28,9 @@ public class SMSUtil {
 	}
 
 	/** 短信平台用户名 */
-	private static String USERNAME = "zxkj";
+	private static String USERNAME = "";
 	/** 短信平台密码 */
-	private static String USERPWD = "100587";
+	private static String USERPWD = "";
 	/** 短信平台成功代码 */
 	private static String SUCCESS_CODE = "1";
 

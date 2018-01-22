@@ -1,4 +1,4 @@
-package com.ming.common.util.common;
+package com.ming.common.util;
 
 /**
  * 类名：StringUtil<br>

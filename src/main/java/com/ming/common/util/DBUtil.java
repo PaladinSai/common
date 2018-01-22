@@ -1,4 +1,4 @@
-package com.ming.common.util.database;
+package com.ming.common.util;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

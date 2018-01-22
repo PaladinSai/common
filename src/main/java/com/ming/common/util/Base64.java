@@ -1,4 +1,4 @@
-package com.ming.common.util.encrypt;
+package com.ming.common.util;
 
 public final class Base64 {
 

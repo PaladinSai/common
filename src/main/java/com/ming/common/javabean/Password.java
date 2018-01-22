@@ -2,8 +2,8 @@ package com.ming.common.javabean;
 
 import java.io.Serializable;
 
-import com.ming.common.util.bussiness.SaltUtil;
-import com.ming.common.util.common.StringUtil;
+import com.ming.common.util.SaltUtil;
+import com.ming.common.util.StringUtil;
 
 /**
  * 类名：PassWord<br>

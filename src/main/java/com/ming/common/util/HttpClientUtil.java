@@ -1,4 +1,4 @@
-package com.ming.common.util.http;
+package com.ming.common.util;
 
 import java.io.File;
 import java.util.ArrayList;

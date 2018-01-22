@@ -1,4 +1,4 @@
-package com.ming.common.util.bussiness;
+package com.ming.common.util;
 
 import java.util.Iterator;
 import java.util.Map;
@@ -8,8 +8,6 @@ import java.util.SortedMap;
 import java.util.TreeMap;
 
 import com.ming.common.constant.config.Config;
-import com.ming.common.util.common.XMLUtil;
-import com.ming.common.util.encrypt.MD5;
 
 /**
  * 类名：WxpayUtil<br>
@@ -24,15 +22,15 @@ import com.ming.common.util.encrypt.MD5;
 public class WechatPayUtil {
 	
 	/** 公众账号ID */
-	//private static String WECHAT_APPID = "wx364a8eb49d7ffa58";
+	//private static String WECHAT_APPID = "";
 	/** 商户号 */
-	//private static String WECHAT_MCH_ID = "1378588702";
+	//private static String WECHAT_MCH_ID = "";
 	/** 异步通知地址（接收微信支付系统返回的异步通知信息） */
-	//private static String WECHAT_NOTIFY_URL = "http://www.wxpen.com/ELife_User/Pay/wechatPayNotify.act";
+	//private static String WECHAT_NOTIFY_URL = "";
 	/** API秘钥的值 */
-	private static String WECHAT_PARTNERKEY = "5ead7afbefca006bbdfac39c8add9d76";
+	private static String WECHAT_PARTNERKEY = "";
 	/** 证书地址 */
-	//private static String WECHAT_APICLIENT_CERTLOCATION = "D:/cert/apiclient_cert.p12";
+	//private static String WECHAT_APICLIENT_CERTLOCATION = "";
 	// ---------------------------------------------------------------
 
 	/**

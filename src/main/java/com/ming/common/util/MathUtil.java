@@ -1,4 +1,4 @@
-package com.ming.common.util.common;
+package com.ming.common.util;
 
 import java.security.SecureRandom;
 

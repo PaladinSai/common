@@ -1,4 +1,4 @@
-package com.ming.common.util.bussiness;
+package com.ming.common.util;
 
 import com.ming.common.javabean.Page;
 import com.ming.common.javabean.Result;
